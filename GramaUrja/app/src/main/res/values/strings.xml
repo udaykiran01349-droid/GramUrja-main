@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grama-Urja</string>
+    <string name="power_on">POWER IS ON ⚡</string>
+    <string name="power_off">POWER IS OFF ✗</string>
+    <string name="select_zone">Select Zone</string>
+    <string name="last_seen">Last updated: %1$s</string>
+    <string name="pump_timer">Pump Timer</string>
+</resources>
